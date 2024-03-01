@@ -1,2 +1,2 @@
 let link = document.querySelector(".jemayen")
-link.innerHTML("jemayen"+ "😶‍🌫️")
+link.innerHTML = "jemayen 😶‍🌫️"
